@@ -1,0 +1,5 @@
+beautifulsoup4==4.11.1
+colorama==0.4.5
+imap_tools==0.57.0
+requests==2.20.0
+termcolor==1.1.0
